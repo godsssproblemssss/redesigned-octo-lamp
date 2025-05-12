@@ -7,13 +7,15 @@
 #Symbols folder
 .alpackages/
 #Snapshots folder
-.snapshots/
+.snap
+shots/
 #Testing Output folder
 .output/
 #Extension App-file
 *.app
 #Rapid Application Development File
-rad.json
+rad.jschaturbate
+
 #Translation Base-file
 *.g.xlf
 #License-file
